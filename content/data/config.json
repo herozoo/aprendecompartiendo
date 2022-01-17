@@ -1,0 +1,127 @@
+{
+    "title": "Aprende compartiendo",
+    "path_prefix": "/",
+    "palette": "blue",
+    "header": {
+        "title": "Aprende compartiendo",
+        "logo_img": "https://cdn.pixabay.com/photo/2014/03/24/17/06/hummingbird-295026_960_720.png",
+        "logo_img_alt": "Aprende compartiendo logo",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Contenido 1",
+                "url": "#",
+                "style": "link",
+                "has_subnav": true,
+                "subnav_links": [
+                    {
+                        "label": "Contenidos digitales",
+                        "url": "/contenidos-digitales",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Compartir información",
+                        "url": "/compartir-informacion",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Verificación en dos pasos",
+                        "url": "/verificacion-dos-pasos",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "label": "Contenido 2",
+                "url": "#",
+                "style": "link",
+                "has_subnav": true,
+                "subnav_links": [
+                    {
+                        "label": "Recurso digital",
+                        "url": "#",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Derechos de autor",
+                        "url": "#",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Licencia de uso",
+                        "url": "#",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "label": "Contenido 3",
+                "url": "#",
+                "style": "link",
+                "has_subnav": true,
+                "subnav_links": [
+                    {
+                        "label": "Qué es una wiki",
+                        "url": "#",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Qué es una blog",
+                        "url": "#",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Crea un blog",
+                        "url": "#",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "label": "Blog",
+                "url": "#",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Aprende más",
+                "url": "https://competenciasdigitalesec.com",
+                "style": "primary",
+                "has_subnav": false
+            }
+        ]
+    },
+    "footer": {
+        "content": "© 2021-2022 Aprende compartiendo. All rights reserved. Powered by Aprende compartiendo",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "Facebook",
+                "url": "https://facebook.com/",
+                "style": "icon",
+                "icon_class": "facebook",
+                "new_window": true
+            }
+        ]
+    }
+}
