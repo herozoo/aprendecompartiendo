@@ -121,6 +121,6 @@ Mira nuestro video que resume lo que significa información, contenido digital y
 ## Continua con nuestro a partado:
 
 <a
-    href="https://app.stackbit.com/create?utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes">
+    href="https://www.zonaec.com/compartir-informacion/">
     <h3>Aprende a compartir información. Click aquí</h3>
   </a>

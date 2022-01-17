@@ -150,6 +150,6 @@ No tiene nada de malo compartir su información con amigos y familiares. Sin emb
 ## Continua con nuestro a partado:
 
 <a
-    href="https://app.stackbit.com/create?utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes">
+    href="https://www.zonaec.com/verificacion-dos-pasos/">
     <h3>Verificación en dos pasos. Click aquí</h3>
   </a>
