@@ -46,6 +46,7 @@ Cuando activamos este tipo de verificación en un servicio web, además de utili
 La principal ventaja de utilizar este servicio es el punto extra de seguridad que damos a nuestra cuenta personal, ya que será más seguro que utilizar únicamente usuario y contraseña.
 
 <img src="https://cdn.pixabay.com/photo/2016/11/29/09/32/concept-1868728_1280.jpg">
+<hr/>
 
 Puede darse el caso que alguien se haga con nuestra contraseña personal, por ejemplo, a través de un ataque de phishing. En este caso, si no tenemos habilitada la verificación en dos pasos, un ciberdelincuente podría acceder a nuestra cuenta y realizar cualquier acción que podría repercutirnos negativamente, ya que a los ojos del resto del mundo lo habríamos hecho nosotros.
 Por el contrario, teniendo habilitada la verificación en dos pasos, el ciberdelincuente no podría acceder a nuestra cuenta ya que, aunque esté en posesión de la contraseña, no tendría el código necesario para concluir el proceso de acceso.

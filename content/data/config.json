@@ -49,8 +49,8 @@
                         "style": "link"
                     },
                     {
-                        "label": "Qué es una blog",
-                        "url": "/",
+                        "label": "Qué es un blog",
+                        "url": "que-es-un-blog",
                         "style": "link"
                     },
                     {
