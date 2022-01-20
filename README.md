@@ -1,2 +1,1 @@
 # aprende-compartiendo
-# aprende-compartiendo

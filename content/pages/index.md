@@ -32,6 +32,31 @@ sections:
           - label: Aprende aquí
             url: /verificacion-dos-pasos
             style: link
+  - section_id: features
+    type: section_grid
+    col_number: three
+    grid_items:
+      - title: Qué es una wiki
+        content: >-
+          Wiki es de origen hawaiano que significa: rápido. Comúnmente para abreviar esta palabra se utiliza Wiki y en términos tecnológicos es un software para la creación de contenido de forma colaborativa.
+        actions:
+          - label: Aprende aquí
+            url: /wiki
+            style: link
+      - title: Qué es una blog
+        content: >-
+          la palabra blog viene de la abreviación de weblog, lo que en español se traduce como «registro web». Por eso el sentido básico del blog es el de una bitácora o diario digital donde se va «registrando» contenido de forma cronológica.
+        actions:
+          - label: Aprende aquí
+            url: /que-es-una-blog
+            style: link
+      - title: Crea un blog
+        content: >-
+          Sigue este pequeño tutorial y aprenderás a crear tu Blog personal o de negocio completamente gratis, sí serás visible a todo el mundo desde ahora.
+        actions:
+          - label: Aprende aquí
+            url: /crea-un-blog
+            style: link
   - section_id: cta
     type: section_cta
     title: Competencias digitales

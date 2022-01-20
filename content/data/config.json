@@ -15,7 +15,7 @@
                 "has_subnav": false
             },
             {
-                "label": "Contenido 1",
+                "label": "Competencia digital básica",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
@@ -38,47 +38,24 @@
                 ]
             },
             {
-                "label": "Contenido 2",
-                "url": "#",
-                "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Recurso digital",
-                        "url": "#",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Derechos de autor",
-                        "url": "#",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Licencia de uso",
-                        "url": "#",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
-                "label": "Contenido 3",
+                "label": "Competencia digital Intermedia",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
                 "subnav_links": [
                     {
                         "label": "Qué es una wiki",
-                        "url": "#",
+                        "url": "wiki",
                         "style": "link"
                     },
                     {
                         "label": "Qué es una blog",
-                        "url": "#",
+                        "url": "que-es-una-blog",
                         "style": "link"
                     },
                     {
                         "label": "Crea un blog",
-                        "url": "#",
+                        "url": "crea-un-blog",
                         "style": "link"
                     }
                 ]
