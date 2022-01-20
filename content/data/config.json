@@ -45,7 +45,7 @@
                 "subnav_links": [
                     {
                         "label": "Qué es una wiki",
-                        "url": "/",
+                        "url": "wiki",
                         "style": "link"
                     },
                     {
