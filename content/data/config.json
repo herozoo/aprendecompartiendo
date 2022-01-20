@@ -45,17 +45,17 @@
                 "subnav_links": [
                     {
                         "label": "Qué es una wiki",
-                        "url": "wiki",
+                        "url": "/",
                         "style": "link"
                     },
                     {
                         "label": "Qué es una blog",
-                        "url": "que-es-una-blog",
+                        "url": "/",
                         "style": "link"
                     },
                     {
                         "label": "Crea un blog",
-                        "url": "crea-un-blog",
+                        "url": "/",
                         "style": "link"
                     }
                 ]
