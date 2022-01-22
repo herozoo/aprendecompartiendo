@@ -55,7 +55,7 @@
                     },
                     {
                         "label": "Crea un blog",
-                        "url": "/",
+                        "url": "crea-un-blog",
                         "style": "link"
                     }
                 ]

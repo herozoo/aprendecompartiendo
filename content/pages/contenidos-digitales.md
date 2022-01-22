@@ -92,7 +92,6 @@ Mira nuestro video que resume lo que significa información, contenido digital y
       <img
       width="60"
       height="120"
-      alt="Create with Stackbit"
       src="https://cdn.pixabay.com/photo/2018/09/07/14/42/download-pdf-3660827_960_720.png"/>
     </h2>
   </a>
