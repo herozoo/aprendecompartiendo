@@ -163,6 +163,6 @@ Sigue este pequeño tutorial y aprenderás a crear tu Blog personal o de negocio
 Te invitamos a visitar nuestra pestaña de agradecimiento en el siguiente enlace, ahí también encontrarás información sobre cómo aprender otras competencias digitales.
 
 <a
-    href="agradecimiento/">
+    href="/agradecimiento/">
     <h3>Click aquí</h3>
   </a>
