@@ -61,8 +61,8 @@
                 ]
             },
             {
-                "label": "Blog",
-                "url": "#",
+                "label": "Agradecimiento",
+                "url": "agradecimiento",
                 "style": "link",
                 "has_subnav": false
             },

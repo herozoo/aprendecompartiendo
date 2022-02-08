@@ -41,7 +41,7 @@ Sigue este pequeño tutorial y aprenderás a crear tu Blog personal o de negocio
 
 1) Nos dirigimos a nuestro navegador de internet favorito y digitamos: simplesite.
 
-<hr/><img src="https://raw.githubusercontent.com/wladimov/aprende-compartiendo/main/public/images/2.png">
+<hr/><img src="https://raw.githubusercontent.com/wladimov/aprende-compartiendo/main/public/images/2.jpg">
 
 2) Luego seleccionamos la página web que se presenta a continuación.
 
