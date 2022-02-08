@@ -45,7 +45,7 @@ sections:
             style: link
       - title: Qué es un blog
         content: >-
-          la palabra blog viene de la abreviación de weblog, lo que en español se traduce como «registro web». Por eso el sentido básico del blog es el de una bitácora o diario digital donde se va «registrando» contenido de forma cronológica.
+          La palabra blog viene de la abreviación de weblog, lo que en español se traduce como «registro web». Por eso el sentido básico del blog es el de una bitácora o diario digital donde se va «registrando» contenido de forma cronológica.
         actions:
           - label: Aprende aquí
             url: /que-es-un-blog
