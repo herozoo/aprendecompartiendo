@@ -90,7 +90,7 @@ Mira nuestro video que resume lo que significa información, contenido digital y
 </div>
 
 ## Ejercicio práctico
-###### Una con línea la definción que corresponda
+###### Una con una línea la definición que corresponda
 
 <div style="width: 100%;">
   <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
