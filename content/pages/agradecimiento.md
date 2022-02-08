@@ -1,7 +1,7 @@
 ---
 title: Comunidad del cantón Gualaquiza
 subtitle: Nuestros más sinceros agradecimientos por permitirnos colaborar en el crecimiento de conocimientos digitales de la comunidad Gualaquiza. Sigamos fortaleciendo nuestras competencias digitales para nuestro crecimiento personal, social y nacional.
-image: "https://raw.githubusercontent.com/wladimov/aprende-compartiendo/main/public/images/gualaquiza.jpg"
+image: "https://raw.githubusercontent.com/wladimov/aprende-compartiendo/main/public/images/gualaquiza-top.jpg"
 seo:
   title: Comunidad del cantón Gualaquiza
   description: Nuestros más sinceros agradecimientos por permitirnos colaborar en el crecimiento de conocimientos digitales de la comunidad Gualaquiza. Sigamos fortaleciendo nuestras competencias digitales para nuestro crecimiento personal, social y nacional.
@@ -34,3 +34,17 @@ seo:
       relativeUrl: true
 layout: page
 ---
+
+<img src="https://raw.githubusercontent.com/wladimov/aprende-compartiendo/main/public/images/gualaquiza-main.jpg">
+<hr/>
+
+<p>
+  Para seguir aprendiendo sobre competencias digitales te animamos a visitar la página que la Universidad Técnica Particular de Loja a implementado con la dirección de nuestro estimado docente Segundo Benítez.
+</p>
+
+#### Página oficial de contenidos digitales:
+
+<a
+    href="https://competenciasdigitalesec.com">
+    <h4>competenciasdigitalesec.com</h4>
+  </a>

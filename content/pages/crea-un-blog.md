@@ -1,16 +1,16 @@
 ---
-title: Definición de blog
-subtitle: El sentido básico del blog es el de una bitácora o diario digital donde se va «registrando» contenido de forma cronológica.
+title: Crea tu blog
+subtitle: Cuéntale al mundo tus conocimientos, tus ideas, tu historia o comparte al mundo lo que sabes hacer.
 image: "https://cdn.pixabay.com/photo/2017/05/30/03/58/blog-2355684_1280.jpg"
 seo:
-  title: Definición de blog
+  title: Crea tu blog
   description: Un blog es realmente una página web.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Definición de blog
+      value: Crea tu blog
       keyName: property
     - name: 'og:description'
       value: >-
@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Definición de blog
+      value: Crea tu blog
     - name: 'twitter:description'
       value: >-
         Un blog es realmente una página web.
@@ -133,6 +133,10 @@ Sigue este pequeño tutorial y aprenderás a crear tu Blog personal o de negocio
 
 24) Así queda nuestro blog, te animamos a crear el tuyo y compartir tus ideas.
 
+## Crea tu propio blog.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LrPCQHEs4J0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="important">
   <a
     href="https://drive.google.com/file/d/1M9yc1OgKSwjFBc7mB3XMJguGG54GDjW5/view?usp=sharing"
@@ -146,4 +150,19 @@ Sigue este pequeño tutorial y aprenderás a crear tu Blog personal o de negocio
   </a>
 </div>
 
+## Ejercicio práctico
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/61e7476cc1c7f30013a735ae" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+## Evaluación final Contenido 2
+
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/61e745eac1af0d0012b721f9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+# ¡Gracias por culminar el aprendizaje de algunas competencias digitales!
+
+Te invitamos a visitar nuestra pestaña de agradecimiento en el siguiente enlace, ahí también encontrarás información sobre cómo aprender otras competencias digitales.
+
+<a
+    href="agradecimiento/">
+    <h3>Click aquí</h3>
+  </a>

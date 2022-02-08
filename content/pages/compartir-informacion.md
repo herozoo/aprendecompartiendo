@@ -111,6 +111,10 @@ Tómese unos minutos en revisar la configuración de privacidad y seguridad en l
 
 No tiene nada de malo compartir su información con amigos y familiares. Sin embargo, debe plantearse si está compartiendo algo que no desea y si el público con el que lo comparte es el apropiado.
 
+## ¿Qué debo tomar en cuenta al compartir información?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i1FgODmHs3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="important">
   <a
     href="https://drive.google.com/file/d/1yi-4Xk6wEc5BSGsPRVCR9HB8vAl9y5J7/view?usp=sharing"
@@ -146,7 +150,7 @@ No tiene nada de malo compartir su información con amigos y familiares. Sin emb
 
 <hr />
 
-## Continua con nuestro a partado:
+## Continúa con nuestro a partado:
 
 <a
     href="https://www.zonaec.com/verificacion-dos-pasos/">

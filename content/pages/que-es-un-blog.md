@@ -130,6 +130,10 @@ Con esto me refiero al tipo de blog que se centra en un tema concreto y que norm
 
 A modo general ser blogger es un camino de descubrimiento y confianza. Escribir te permite conocer personas, compartir puntos de vista y generar discusión en el tema que mas apasiona; también permite a las empresas darse a conocer y competir en igualdad de condiciones con grandes corporaciones.
 
+## Blog
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XeT1u9WcIuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="important">
   <a
     href="https://drive.google.com/file/d/1JUw-PFOn3U_O9WpYO1AzuEHN7TAo8g2q/view?usp=sharing"
@@ -143,6 +147,7 @@ A modo general ser blogger es un camino de descubrimiento y confianza. Escribir 
   </a>
 </div>
 
+## Ejercicio práctico
 
 <div style="width: 100%;">
   <div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;">
@@ -160,3 +165,10 @@ A modo general ser blogger es un camino de descubrimiento y confianza. Escribir 
     </iframe>
   </div>
 </div>
+
+## Continúa con nuestro a partado:
+
+<a
+    href="/crea-un-blog/">
+    <h3>Crea un blog. Click aquí</h3>
+  </a>

@@ -78,6 +78,10 @@ Activar esta medida de seguridad varía en función de cada sistema, a continuac
 
 La verificación en dos pasos puede marcar la diferencia entre que un ciberdelincuente acceda a nuestra cuenta personal o no.  Pero seremos nosotros quienes decidiremos si esta medida es necesaria en función del servicio que usemos y las repercusiones que pueda tener un acceso no autorizado sobre el mismo.
 
+## Verificación en dos pasos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mbc4brlA7F0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="important">
   <a
     href="https://drive.google.com/file/d/10c493nSVeTTGKa5JJPwuPLGHM1X4Lziv/view?usp=sharing"
@@ -132,3 +136,10 @@ La verificación en dos pasos puede marcar la diferencia entre que un ciberdelin
     </iframe>
   </div>
 </div>
+
+## Continúa con nuestro a partado:
+
+<a
+    href="/wiki/">
+    <h3>¿Qué es un Wiki? Click aquí</h3>
+  </a>

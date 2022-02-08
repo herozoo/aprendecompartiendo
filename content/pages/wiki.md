@@ -108,6 +108,10 @@ participar en un grupo de aprendizaje, crear contenidos didácticos tales como
 exámenes, ejercicios de prácticas, foros de discusión sobre las dudas en las materias
 que estudias.
 
+## Wiki
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Ghy-Ip_Yhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="important">
   <a
     href="https://drive.google.com/file/d/12msx0aG7wsDKjafDofP_42spLSTN_cJi/view?usp=sharing"
@@ -139,3 +143,10 @@ que estudias.
     </iframe>
   </div>
 </div>
+
+## Continúa con nuestro a partado:
+
+<a
+    href="/que-es-un-blog/">
+    <h3>¿Qué es un blog? Click aquí</h3>
+  </a>

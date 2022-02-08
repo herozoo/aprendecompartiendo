@@ -55,7 +55,7 @@ sections:
           Sigue este pequeño tutorial y aprenderás a crear tu Blog personal o de negocio completamente gratis, sí serás visible a todo el mundo desde ahora.
         actions:
           - label: Aprende aquí
-            url: /
+            url: /crea-un-blog
             style: link
   - section_id: cta
     type: section_cta

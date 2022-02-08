@@ -68,15 +68,7 @@ Compartir la ubicación de la información y de los contenidos y recursos digita
 
 ## Contenido digital e información
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/ImPEipFn1eI"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzD2YD-pWTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -117,7 +109,7 @@ Mira nuestro video que resume lo que significa información, contenido digital y
 
 <hr />
 
-## Continua con nuestro a partado:
+## Continúa con nuestro a partado:
 
 <a
     href="https://www.zonaec.com/compartir-informacion/">
